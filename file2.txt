@@ -1,2 +1,3 @@
 file2 git test uchun yaratildi
 men yangilik yozdm
+nma gap
